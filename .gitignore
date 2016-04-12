@@ -1,0 +1,5 @@
+trash.cs
+unit_test.cs
+test-results/
+obj/
+*.xml
